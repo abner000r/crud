@@ -1,0 +1,570 @@
+CRITICAL - 2024-07-22 15:57:27 --> Error: Class "app\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 15:58:56 --> Error: Class "app\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 15:59:34 --> Error: Class "app\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:00:22 --> ParseError: syntax error, unexpected variable "$adtos"
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 11.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\repaso_crud\\repaso_nuevo22\\app\\Controllers\\PlanesController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\PlanesController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\PlanesController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\PlanesController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:00:42 --> Error: Class "app\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:01:24 --> Error: Class "app\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:01:59 --> Error: Class "app\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:02:15 --> Error: Class "app\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:02:15 --> Error: Class "app\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:02:15 --> Error: Class "app\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:02:16 --> Error: Class "app\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:02:16 --> Error: Class "app\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:09:47 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:09:48 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:09:48 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:09:48 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:28:44 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:35:07 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:35:07 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:37:10 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:37:20 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:40:31 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:40:32 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:41:23 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:41:24 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:41:24 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:41:24 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:42:57 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:42:58 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:42:58 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:42:58 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:43:19 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:43:25 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:43:25 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:44:09 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:44:10 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:44:10 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:44:10 --> Error: Class "App\Models\PlanesModel" not found
+[Method: GET, Route: planes]
+in APPPATH\Controllers\PlanesController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:51:35 --> ErrorException: Undefined variable $datos
+[Method: GET, Route: clientes]
+in APPPATH\Views\clientes.php on line 24.
+ 1 APPPATH\Views\clientes.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'C:\\xampp\\htdocs\\repaso_crud\\repaso_nuevo22\\app\\Views\\clientes.php', 24)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\repaso_crud\\repaso_nuevo22\\app\\Views\\clientes.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('clientes', [], true)
+ 5 APPPATH\Controllers\ClientesController.php(10): view('clientes')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientesController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientesController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:52:34 --> ErrorException: Undefined variable $datos
+[Method: GET, Route: clientes]
+in APPPATH\Views\clientes.php on line 24.
+ 1 APPPATH\Views\clientes.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'C:\\xampp\\htdocs\\repaso_crud\\repaso_nuevo22\\app\\Views\\clientes.php', 24)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\repaso_crud\\repaso_nuevo22\\app\\Views\\clientes.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('clientes', [], true)
+ 5 APPPATH\Controllers\ClientesController.php(10): view('clientes')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientesController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientesController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:53:28 --> TypeError: mysqli_result::fetch_object(): Argument #1 ($class) must be a valid class name, App\Entities\User given
+[Method: GET, Route: clientes]
+in SYSTEMPATH\Database\MySQLi\Result.php on line 156.
+ 1 SYSTEMPATH\Database\MySQLi\Result.php(156): mysqli_result->fetch_object('App\\Entities\\User')
+ 2 SYSTEMPATH\Database\BaseResult.php(161): CodeIgniter\Database\MySQLi\Result->fetchObject('App\\Entities\\User')
+ 3 SYSTEMPATH\Database\BaseResult.php(116): CodeIgniter\Database\BaseResult->getCustomResultObject('App\\Entities\\User')
+ 4 SYSTEMPATH\Model.php(287): CodeIgniter\Database\BaseResult->getResult('App\\Entities\\User')
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\ClientesController.php(11): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientesController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientesController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:53:53 --> TypeError: mysqli_result::fetch_object(): Argument #1 ($class) must be a valid class name, App\Entities\User given
+[Method: GET, Route: clientes]
+in SYSTEMPATH\Database\MySQLi\Result.php on line 156.
+ 1 SYSTEMPATH\Database\MySQLi\Result.php(156): mysqli_result->fetch_object('App\\Entities\\User')
+ 2 SYSTEMPATH\Database\BaseResult.php(161): CodeIgniter\Database\MySQLi\Result->fetchObject('App\\Entities\\User')
+ 3 SYSTEMPATH\Database\BaseResult.php(116): CodeIgniter\Database\BaseResult->getCustomResultObject('App\\Entities\\User')
+ 4 SYSTEMPATH\Model.php(287): CodeIgniter\Database\BaseResult->getResult('App\\Entities\\User')
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\ClientesController.php(11): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientesController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientesController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:53:54 --> TypeError: mysqli_result::fetch_object(): Argument #1 ($class) must be a valid class name, App\Entities\User given
+[Method: GET, Route: clientes]
+in SYSTEMPATH\Database\MySQLi\Result.php on line 156.
+ 1 SYSTEMPATH\Database\MySQLi\Result.php(156): mysqli_result->fetch_object('App\\Entities\\User')
+ 2 SYSTEMPATH\Database\BaseResult.php(161): CodeIgniter\Database\MySQLi\Result->fetchObject('App\\Entities\\User')
+ 3 SYSTEMPATH\Database\BaseResult.php(116): CodeIgniter\Database\BaseResult->getCustomResultObject('App\\Entities\\User')
+ 4 SYSTEMPATH\Model.php(287): CodeIgniter\Database\BaseResult->getResult('App\\Entities\\User')
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\ClientesController.php(11): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientesController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientesController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:53:54 --> TypeError: mysqli_result::fetch_object(): Argument #1 ($class) must be a valid class name, App\Entities\User given
+[Method: GET, Route: clientes]
+in SYSTEMPATH\Database\MySQLi\Result.php on line 156.
+ 1 SYSTEMPATH\Database\MySQLi\Result.php(156): mysqli_result->fetch_object('App\\Entities\\User')
+ 2 SYSTEMPATH\Database\BaseResult.php(161): CodeIgniter\Database\MySQLi\Result->fetchObject('App\\Entities\\User')
+ 3 SYSTEMPATH\Database\BaseResult.php(116): CodeIgniter\Database\BaseResult->getCustomResultObject('App\\Entities\\User')
+ 4 SYSTEMPATH\Model.php(287): CodeIgniter\Database\BaseResult->getResult('App\\Entities\\User')
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\ClientesController.php(11): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientesController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientesController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:53:54 --> TypeError: mysqli_result::fetch_object(): Argument #1 ($class) must be a valid class name, App\Entities\User given
+[Method: GET, Route: clientes]
+in SYSTEMPATH\Database\MySQLi\Result.php on line 156.
+ 1 SYSTEMPATH\Database\MySQLi\Result.php(156): mysqli_result->fetch_object('App\\Entities\\User')
+ 2 SYSTEMPATH\Database\BaseResult.php(161): CodeIgniter\Database\MySQLi\Result->fetchObject('App\\Entities\\User')
+ 3 SYSTEMPATH\Database\BaseResult.php(116): CodeIgniter\Database\BaseResult->getCustomResultObject('App\\Entities\\User')
+ 4 SYSTEMPATH\Model.php(287): CodeIgniter\Database\BaseResult->getResult('App\\Entities\\User')
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\ClientesController.php(11): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientesController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientesController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:54:46 --> TypeError: mysqli_result::fetch_object(): Argument #1 ($class) must be a valid class name, App\Entities\User given
+[Method: GET, Route: clientes]
+in SYSTEMPATH\Database\MySQLi\Result.php on line 156.
+ 1 SYSTEMPATH\Database\MySQLi\Result.php(156): mysqli_result->fetch_object('App\\Entities\\User')
+ 2 SYSTEMPATH\Database\BaseResult.php(161): CodeIgniter\Database\MySQLi\Result->fetchObject('App\\Entities\\User')
+ 3 SYSTEMPATH\Database\BaseResult.php(116): CodeIgniter\Database\BaseResult->getCustomResultObject('App\\Entities\\User')
+ 4 SYSTEMPATH\Model.php(287): CodeIgniter\Database\BaseResult->getResult('App\\Entities\\User')
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\ClientesController.php(11): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientesController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientesController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:54:47 --> TypeError: mysqli_result::fetch_object(): Argument #1 ($class) must be a valid class name, App\Entities\User given
+[Method: GET, Route: clientes]
+in SYSTEMPATH\Database\MySQLi\Result.php on line 156.
+ 1 SYSTEMPATH\Database\MySQLi\Result.php(156): mysqli_result->fetch_object('App\\Entities\\User')
+ 2 SYSTEMPATH\Database\BaseResult.php(161): CodeIgniter\Database\MySQLi\Result->fetchObject('App\\Entities\\User')
+ 3 SYSTEMPATH\Database\BaseResult.php(116): CodeIgniter\Database\BaseResult->getCustomResultObject('App\\Entities\\User')
+ 4 SYSTEMPATH\Model.php(287): CodeIgniter\Database\BaseResult->getResult('App\\Entities\\User')
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\ClientesController.php(11): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientesController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientesController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:55:03 --> TypeError: mysqli_result::fetch_object(): Argument #1 ($class) must be a valid class name, App\Entities\User given
+[Method: GET, Route: clientes]
+in SYSTEMPATH\Database\MySQLi\Result.php on line 156.
+ 1 SYSTEMPATH\Database\MySQLi\Result.php(156): mysqli_result->fetch_object('App\\Entities\\User')
+ 2 SYSTEMPATH\Database\BaseResult.php(161): CodeIgniter\Database\MySQLi\Result->fetchObject('App\\Entities\\User')
+ 3 SYSTEMPATH\Database\BaseResult.php(116): CodeIgniter\Database\BaseResult->getCustomResultObject('App\\Entities\\User')
+ 4 SYSTEMPATH\Model.php(287): CodeIgniter\Database\BaseResult->getResult('App\\Entities\\User')
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\ClientesController.php(11): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientesController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientesController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:55:03 --> TypeError: mysqli_result::fetch_object(): Argument #1 ($class) must be a valid class name, App\Entities\User given
+[Method: GET, Route: clientes]
+in SYSTEMPATH\Database\MySQLi\Result.php on line 156.
+ 1 SYSTEMPATH\Database\MySQLi\Result.php(156): mysqli_result->fetch_object('App\\Entities\\User')
+ 2 SYSTEMPATH\Database\BaseResult.php(161): CodeIgniter\Database\MySQLi\Result->fetchObject('App\\Entities\\User')
+ 3 SYSTEMPATH\Database\BaseResult.php(116): CodeIgniter\Database\BaseResult->getCustomResultObject('App\\Entities\\User')
+ 4 SYSTEMPATH\Model.php(287): CodeIgniter\Database\BaseResult->getResult('App\\Entities\\User')
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\ClientesController.php(11): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientesController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientesController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:58:40 --> ParseError: syntax error, unexpected token "echo"
+[Method: GET, Route: clientes]
+in APPPATH\Views\clientes.php on line 28.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('clientes', [], true)
+ 3 APPPATH\Controllers\ClientesController.php(13): view('clientes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientesController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientesController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:58:50 --> ParseError: syntax error, unexpected token "."
+[Method: GET, Route: clientes]
+in APPPATH\Views\clientes.php on line 28.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('clientes', [], true)
+ 3 APPPATH\Controllers\ClientesController.php(13): view('clientes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientesController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientesController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:59:02 --> ParseError: syntax error, unexpected token "."
+[Method: GET, Route: clientes]
+in APPPATH\Views\clientes.php on line 28.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('clientes', [], true)
+ 3 APPPATH\Controllers\ClientesController.php(13): view('clientes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientesController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientesController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 16:59:02 --> ParseError: syntax error, unexpected token "."
+[Method: GET, Route: clientes]
+in APPPATH\Views\clientes.php on line 28.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('clientes', [], true)
+ 3 APPPATH\Controllers\ClientesController.php(13): view('clientes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientesController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientesController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 17:46:07 --> ErrorException: Undefined variable $cliente
+[Method: GET, Route: lineas]
+in APPPATH\Views\lineas_telefonicas.php on line 33.
+ 1 APPPATH\Views\lineas_telefonicas.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cliente', 'C:\\xampp\\htdocs\\repaso_crud\\repaso_nuevo22\\app\\Views\\lineas_telefonicas.php', 33)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\repaso_crud\\repaso_nuevo22\\app\\Views\\lineas_telefonicas.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('lineas_telefonicas', [], true)
+ 5 APPPATH\Controllers\LineasTelefonicasController.php(13): view('lineas_telefonicas', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LineasTelefonicasController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LineasTelefonicasController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
