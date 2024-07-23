@@ -32,7 +32,7 @@
                 <td><?php echo $plan['plan_id'];?></td>
                 <td><?php echo $plan['cliente_id'];?></td>
                 <td>
-                    <a href="actualizar_cliente/<?php echo $plan['cliente_id']?>" class="btn btn-primary">Actualizar</a>
+                    <a href="<?php echo $plan['cliente_id']?>" class="btn btn-primary">Actualizar</a>
                     <a href="eliminar_cliente/<?php echo $plan['cliente_id']?>" class="btn btn-danger">Eliminar</a>
 
                 </td>
